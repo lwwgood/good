@@ -1,0 +1,5 @@
+local a = 1
+while true do
+    setclipboard("沙壁"..a)
+    a = a + 1
+end
