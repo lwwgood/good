@@ -1,3 +1,5 @@
+--还知道看一眼
 game:GetService("StarterGui"):SetCore("SendNotification",{ Title = "已运行"; Text ="请耐心等待可能会卡"; Duration = 5; })
 
 task.wait(0.5)
+
